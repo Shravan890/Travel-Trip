@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# Build output (not needed in repo — built by host)
+dist
+
+# OS files
+.DS_Store
+Thumbs.db
